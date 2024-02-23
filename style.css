@@ -48,7 +48,7 @@ header, main section {
 /* header style start */
 
 header {
-    background: linear-gradient(180deg, #070211, rgba(7, 2, 17, 0.00)), url('./B9A1-New-Year-New-Mission/resources/Banner\ Image.png');
+    background: linear-gradient(180deg, #070211, rgba(7, 2, 17, 0.00)), url('./resources/Banner\ Image.png');
     padding: 175px 0;
 }
 
@@ -112,7 +112,7 @@ header {
 
 
 #party {
-    background: linear-gradient(90deg, #070211, rgba(7, 2, 17, 0.00)), url('/B9A1-New-Year-New-Mission/resources/Vectorrr.png');
+    background: linear-gradient(90deg, #070211, rgba(7, 2, 17, 0.00)), url('/resources/Vectorrr.png');
     padding: 66px 138px 65px 126px;
 }
 
